@@ -32,13 +32,13 @@ To run **Tourly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/yaaaashvii/tourAround.git
+sudo git clone https://github.com/yaaaashvii/TourAround.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/yaaaashvii/tourAround.git
+git clone https://github.com/yaaaashvii/TourAround.git
 ```
 
 ### License
